@@ -56,6 +56,7 @@ public class MainActivity extends AppCompatActivity {
         int iii = i + ii;
 
         String s="newString";
+        boolean b= false;
     }
     private void changedOnGithub(){
         
