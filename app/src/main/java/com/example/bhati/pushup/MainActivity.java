@@ -54,6 +54,8 @@ public class MainActivity extends AppCompatActivity {
         int i = 1;
         int ii = 2;
         int iii = i + ii;
+
+        String s="newString";
     }
     private void changedOnGithub(){
         
