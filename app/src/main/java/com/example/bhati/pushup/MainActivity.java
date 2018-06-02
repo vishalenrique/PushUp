@@ -51,6 +51,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void test() {
+       subMethod();
+    }
+
+    private void subMethod() {
         int i = 1;
         int ii = 2;
         int iii = i + ii;
@@ -58,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
         String s="newString";
         boolean b= false;
     }
+
     private void changedOnGithub(){
         
     }
